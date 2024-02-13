@@ -1,0 +1,44 @@
+.about {
+  background-color: #0a2850;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.about__title {
+  margin-top: 100px;
+  margin-left: 80px;
+  z-index: 1;
+  max-width: 251px;
+  font-family: "Inter", Arial;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.about__content {
+  margin: 119px 80px 113px;
+  max-width: 660px;
+  font-family: "Noto Serif", "Times New Roman";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about__span {
+  display: block;
+  padding: 20px 0;
+}
+
+.about__circle {
+  width: 426px;
+  height: 426px;
+  border-radius: 50%;
+  background-color: #2f80ed;
+  position: absolute;
+  left: -129px;
+  top: -152px;
+}
