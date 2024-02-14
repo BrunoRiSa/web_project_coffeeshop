@@ -9,3 +9,8 @@ Melhorias para o site
 
 - Atualizar o cardápio com fotos das opções.
 - Implementar uma área de sugestões p/ que clientes ajudem com feedback.
+
+As tecnologias utilizadas nesse projeto são:
+
+- HTML5
+- CSS
