@@ -47,4 +47,5 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 100px;
+  max-width: 1180px;
 }
